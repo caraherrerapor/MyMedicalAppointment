@@ -11,7 +11,7 @@ public class Patient {
     String birthday;
     double weight;
     double height;
-    String blood;
+     String blood;
 
     Patient(String name ,String email){
         this.name = name;
